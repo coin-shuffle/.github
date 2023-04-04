@@ -1,4 +1,4 @@
-# Coin Shttps://github.com/coin-shuffle/corehuffle
+# Coin Shuffle
 
 This organization provides implementations of **Coin Shuffle** process.
 
