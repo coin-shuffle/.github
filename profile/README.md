@@ -15,3 +15,7 @@ This organization provides implementations of **Coin Shuffle** process.
   Rust defenitions for `core-contracts`
 + [`core-contracts`](https://github.com/coin-shuffle/core-contracts) - core contracts for Ethereum written
   in Solidity using Hardhat.
++ [`protobuf`](https://github.com/coin-shuffle/protobuf) - all protobuf definitions used in protocol level
+  implementation
++ [`protos`](https://github.com/coin-shuffle/protos) - Rust library that contains Rust defenitions for
+  generated from `protobuf`
