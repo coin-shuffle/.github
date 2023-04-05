@@ -19,3 +19,5 @@ This organization provides implementations of **Coin Shuffle** process.
   implementation
 + [`protos`](https://github.com/coin-shuffle/protos) - Rust library that contains Rust defenitions
   generated from `protobuf`
++ [`elysium`](https://github.com/coin-shuffle/elysium) - iOS node
++ [`crypto-bridge`](https://github.com/coin-shuffle/crypto-bridge) - Rust Crypto Bridge for iOS
