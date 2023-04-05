@@ -17,5 +17,5 @@ This organization provides implementations of **Coin Shuffle** process.
   in Solidity using Hardhat.
 + [`protobuf`](https://github.com/coin-shuffle/protobuf) - all protobuf definitions used in protocol level
   implementation
-+ [`protos`](https://github.com/coin-shuffle/protos) - Rust library that contains Rust defenitions for
++ [`protos`](https://github.com/coin-shuffle/protos) - Rust library that contains Rust defenitions
   generated from `protobuf`
