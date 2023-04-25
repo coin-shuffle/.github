@@ -1,6 +1,8 @@
 # Coin Shuffle
 
-This organization provides demo implementation of **Coin Shuffle** process.
+This organization provides demo implementation of **Coin Shuffle** process based on Ethereum blockchain with centalized coordinator (service)
+
+See [our docs](https://coin-shuffle.github.io/docs/) for more info.
 
 ## Repos
 
