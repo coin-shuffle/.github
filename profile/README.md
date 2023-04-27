@@ -21,5 +21,5 @@ See [our docs](https://coin-shuffle.github.io/docs/) for more info.
 + [`protos`](https://github.com/coin-shuffle/protos) - Rust library that contains Rust defenitions
   generated from `protobuf` repo.
 + [`elysium`](https://github.com/coin-shuffle/elysium) - iOS app implementation of participant (_node_).
-+ [`crypto-bridge`](https://github.com/coin-shuffle/crypto-bridge) - Rust Crypto Bridge for iOS (bindings for
++ [`crypto-bridge-rs`](https://github.com/coin-shuffle/crypto-bridge-rs) - Rust Crypto Bridge for iOS (bindings for
   internal libs)
