@@ -31,7 +31,7 @@ See [our docs](https://coin-shuffle.github.io/docs/) for more info.
   process logic separate from network protocol implementation.
 + [`contracts-bindigs-rs`](https://github.com/coin-shuffle/contracts-bindings-rs) - Rust library that contains
   Rust defenitions for `contracts`
-+ [`protos`](https://github.com/coin-shuffle/protos) - Rust library that contains Rust defenitions
++ [`protos-rs`](https://github.com/coin-shuffle/protos-rs) - Rust library that contains Rust defenitions
   generated from `protobuf` repo.
 + [`crypto-bridge-rs`](https://github.com/coin-shuffle/crypto-bridge-rs) - Rust Crypto Bridge for iOS (bindings for
   internal libs)
