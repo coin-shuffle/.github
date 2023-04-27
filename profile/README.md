@@ -14,8 +14,8 @@ See [our docs](https://coin-shuffle.github.io/docs/) for more info.
   process logic separate from network protocol implementation.
 + [`contracts-bindigs`](https://github.com/coin-shuffle/contracts-bindings) - Rust library that contains
   Rust defenitions for `core-contracts`
-+ [`core-contracts`](https://github.com/coin-shuffle/core-contracts) - core contracts for Ethereum written
-  in Solidity using Hardhat. (currently archived, as we are moving to Foundry)
++ [`contracts`](https://github.com/coin-shuffle/contracts) - core contracts for Ethereum written
+  in Solidity using Foundry.
 + [`protobuf`](https://github.com/coin-shuffle/protobuf) - all protobuf definitions used in protocol level
   implementation
 + [`protos`](https://github.com/coin-shuffle/protos) - Rust library that contains Rust defenitions
