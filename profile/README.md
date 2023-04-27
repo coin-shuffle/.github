@@ -10,10 +10,10 @@ See [our docs](https://coin-shuffle.github.io/docs/) for more info.
   connects participants of **Coin Shuffle** process.
 + [`node-cli`](https://github.com/coin-shuffle/node-cli) - command line implementation of participant (_node_)
   in **Coin Shuffle** process.
-+ [`core`](https://github.com/coin-shuffle/core) - Rust library that contains all **Coin Shuffle**
++ [`core-rs`](https://github.com/coin-shuffle/core-rs) - Rust library that contains all **Coin Shuffle**
   process logic separate from network protocol implementation.
-+ [`contracts-bindigs`](https://github.com/coin-shuffle/contracts-bindings) - Rust library that contains
-  Rust defenitions for `core-contracts`
++ [`contracts-bindigs-rs`](https://github.com/coin-shuffle/contracts-bindings-rs) - Rust library that contains
+  Rust defenitions for `contracts`
 + [`contracts`](https://github.com/coin-shuffle/contracts) - core contracts for Ethereum written
   in Solidity using Foundry.
 + [`protobuf`](https://github.com/coin-shuffle/protobuf) - all protobuf definitions used in protocol level
